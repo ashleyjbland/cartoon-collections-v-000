@@ -11,7 +11,7 @@ end
 
 def long_planeteer_calls(calls)
   calls.detect {|word| word.length}
-  return true if call.length >= 4
+  return true if word.length >= 4
 end
 
 
